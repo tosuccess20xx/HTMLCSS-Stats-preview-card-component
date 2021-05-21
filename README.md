@@ -5,6 +5,9 @@
 ![Desktop View](./Screenshot/desktop.png)
 ![Mobile View](./Screenshot/mobile.png)
 
+## Preview
+[Preview it here](https://tosuccess20xx.github.io/HTMLCSS-Stats-preview-card-component/)
+
 ## Built with
 
 - HTML
